@@ -9,6 +9,7 @@ import streamlit as st
 import pandas as pd
 import csv
 import numpy as np
+import plotly
 import plotly.express as px
 from PIL import Image
 import pydeck as pdk
